@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vafinsaf.ru/sitemap.xml (optional, but good practice)
+Sitemap: https://vafin.pro/sitemap.xml
